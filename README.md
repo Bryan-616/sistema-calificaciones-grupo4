@@ -1,2 +1,3 @@
-# sistema-calificaciones-grupo4
-Simulación del desarrollo de un módulo funcional usando Scrum + XP
+# Sistema de Registro de Calificaciones – Grupo 4
+
+Este repositorio simula el desarrollo de un módulo funcional de software basado en metodologías ágiles SCRUM y XP.
